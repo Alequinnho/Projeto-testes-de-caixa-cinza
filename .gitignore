@@ -1,0 +1,8 @@
+.postman/ 
+postman/collections/ 
+postman/documents/ 
+postman/environments/
+postman/flows/
+postman/globals/ 
+postman/mocks/
+postman/specs/
